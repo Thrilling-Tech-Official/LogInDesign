@@ -1,16 +1,15 @@
-# loginscreen
+# LogIn UI Design 
 
-A new Flutter project.
+Now that you've seen how to create a Flutter app entirely from scratch, we're going to go further and learn more about how to design user interfaces for Flutter apps.
 
-## Getting Started
+##  What you will learn
 
-This project is a starting point for a Flutter application.
+- How to create Stateless Widgets
+- What is hot reload and hot refresh
+- How to use Containers to lay out your UI
+- How to use Columns and Rows to position your UI elements
+- How to add custom fonts
+- How to add Material icons
+- How to style Text widgets
+- How to read and use Flutter Documentation
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
